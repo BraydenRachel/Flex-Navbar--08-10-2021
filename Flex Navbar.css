@@ -1,0 +1,28 @@
+.nav{
+    background-color: #333333;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.nav-title{
+    display: flex;
+    align-items: flex-start;
+}
+.nav-links{
+    width: 400px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    list-style-type: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+button{
+    background-color: #17a2b8;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
